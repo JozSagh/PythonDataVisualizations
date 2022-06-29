@@ -1,3 +1,4 @@
 # SpiralPlot
 Draw spiral chart using python.
-![coolpic](/PythonDataVisualizations/blob/main/image.gif?raw=true)
+
+<img src="https://github.com/JozSagh/PythonDataVisualizations/blob/main/image.gif">
