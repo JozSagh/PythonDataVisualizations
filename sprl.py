@@ -6,7 +6,7 @@ import matplotlib.animation as animation
 sns.set(rc={'axes.facecolor':'lavender', 'figure.facecolor':'white'})
 
 x_data = np.linspace(1,20,20)
-y_data = [12, 14, 20, 19, 18, 19 , 20, 22, 20, 23, 21 , 24, 27, 25, 42, 46, 47, 44, 45, 48]
+y_data = [12, 18, 20, 19, 18, 19 , 20, 22, 20, 23, 21 , 24, 27, 25, 42, 46, 47, 44, 45, 48]
 
 figr,ax = plt.subplots(figsize=(4,3))
 figr.suptitle("# of Customers by Date")
